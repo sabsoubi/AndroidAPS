@@ -1245,7 +1245,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="medtronic_pump_frequency_worldwide">Mondial (868 Mhz)</string>
     <string name="medtronic_pump_encoding_4b6b_local">Encodage logiciel 4b6b</string>
     <string name="medtronic_pump_encoding_4b6b_rileylink">Encodage matériel 4b6b</string>
-    <string name="medtronic_custom_action_wake_and_tune">Réveil et mise au point</string>
+    <string name="medtronic_custom_action_wake_and_tune">Réveil et Réglage</string>
     <string name="medtronic_custom_action_clear_bolus_block">Effacer le bloc Bolus</string>
     <string name="medtronic_custom_action_reset_rileylink">Réinitialiser la config. RileyLink</string>
     <string name="medtronic_pump_battery_select">Type de batterie (vue d\'alimentation)</string>
