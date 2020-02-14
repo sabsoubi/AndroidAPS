@@ -1272,7 +1272,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="rileylink_settings_tab1">Paramètres</string>
     <string name="rileylink_settings_tab2">Historique</string>
     <string name="rileylink_status">État du RileyLink</string>
-    <string name="medtronic_pump_status">Statut de la pompe</string>
+    <string name="medtronic_pump_status">État de la pompe</string>
     <string name="title_activity_rileylink_settings">Paramètres RileyLink</string>
     <string name="rileylink_title">RileyLink</string>
     <string name="rileylink_configured_address">Adresse configurée</string>
