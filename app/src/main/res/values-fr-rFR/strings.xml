@@ -1450,4 +1450,8 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="phonechecker">\"Vérif. du téléphone\"</string>
     <string name="chartmenu">Menu Graph</string>
     <string name="sensitivity_short">AS</string>
+    <string name="loop_smbrequest_time_label">Heure de demande SMB</string>
+    <string name="loop_smbexecution_time_label">Heure d\'exécution SMB</string>
+    <string name="loop_tbrrequest_time_label">Heure de demande basal temp</string>
+    <string name="loop_tbrexecution_time_label">Heure d\'exécution basal temp</string>
 </resources>
