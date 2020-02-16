@@ -195,7 +195,7 @@
     <string name="careportal_newnstreatment_sensor">Capteur</string>
     <string name="careportal_newnstreatment_carbs_label">Glucides</string>
     <string name="careportal_newnstreatment_insulin_label">Insuline</string>
-    <string name="careportal_newnstreatment_carbtime_label">Heure glucides</string>
+    <string name="careportal_newnstreatment_carbtime_label">Décalage horaire</string>
     <string name="careportal_newnstreatment_split_label">Diviser</string>
     <string name="careportal_newnstreatment_duration_label">Durée</string>
     <string name="careportal_newnstreatment_percent_label">Pourcentage</string>
@@ -700,7 +700,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="pumpdrivercorrected">Pilote pompe corrigé</string>
     <string name="pump_unreachable">Pompe hors de portée</string>
     <string name="missed_bg_readings">Valeurs de glycémie manquantes</string>
-    <string name="raise_notifications_as_android_notifications">Utiliser le système des notifications</string>
+    <string name="raise_notifications_as_android_notifications">Utiliser les notifications système pour les alertes et notifications</string>
     <string name="localalertsettings_title">Alertes locales</string>
     <string name="enable_missed_bg_readings_alert">Alerte pas nouvelle donnée glycémique</string>
     <string name="enable_pump_unreachable_alert">Alerte si la pompe est hors de portée</string>
