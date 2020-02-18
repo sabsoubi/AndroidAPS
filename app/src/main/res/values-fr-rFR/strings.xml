@@ -384,7 +384,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="resend_all_data">Renvoyer toutes les données</string>
     <string name="open_settings_on_wear">Afficher les Paramètres sur la Montre</string>
     <string name="pumperror">Erreur Pompe</string>
-    <string name="lowbattery">Niveau Batterie Bas</string>
+    <string name="lowbattery">Piles Faibles</string>
     <string name="pumpshutdown">Arrêt de la Pompe</string>
     <string name="batterydischarged">Batterie Pompe Déchargée</string>
     <string name="danarkoreanpump">DanaR Coréenne</string>
@@ -765,7 +765,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="danar_history">Historique pompe</string>
     <string name="combo_activity_setting_basal_profile">Définir le profil basal</string>
     <string name="combo_pump_cartridge_low_warrning">Niveau réservoir pompe bas</string>
-    <string name="combo_pump_battery_low_warrning">Niveau batterie pompe bas</string>
+    <string name="combo_pump_battery_low_warrning">Pile pompe faible</string>
     <string name="combo_is_in_error_state">La pompe affiche l’erreur E%1$d: %2$s</string>
     <string name="combo_reservoir_low">Bas</string>
     <string name="combo_reservoir_empty">Vide</string>
