@@ -1300,7 +1300,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="rileylink_error_bt_disabled">Bluetooth est désactivé</string>
     <string name="rileylink_error_no_bt_adapter">Aucun adaptateur Bluetooth</string>
     <string name="rileylink_error_tuneup_failed">Échec du réglage</string>
-    <string name="rileylink_error_pump_unreachable">Pompe inaccessible</string>
+    <string name="rileylink_error_pump_unreachable">Pompe hors de portée</string>
     <string name="rileylink_error_pod_unreachable">Pod inaccessible</string>
     <string name="rileylink_error_address_not_set_short">Non configuré</string>
     <!-- RL Target Device -->
