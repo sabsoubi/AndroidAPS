@@ -1015,7 +1015,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="commanderror">Erreur de commande</string>
     <string name="speederror">Erreur de vitesse</string>
     <string name="insulinlimitviolation">Violation d\'une limite d\'insuline</string>
-    <string name="loop_openmode_min_change">Changement minimum possible [%]</string>
+    <string name="loop_openmode_min_change">Changement minimum [%]</string>
     <string name="loop_openmode_min_change_summary">Le fonctionnement de la Boucle demandera une confirmation uniquement si le changement est supérieur à cette valeur en %. Par défaut, la valeur est 20%</string>
     <string name="pairfirst">Appairez SVP votre pompe avec votre téléphone !</string>
     <string name="searching_for_devices">Recherche d\'appareils en cours…</string>
