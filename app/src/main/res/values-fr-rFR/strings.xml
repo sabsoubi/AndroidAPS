@@ -914,7 +914,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="ns_allowroaming">Autoriser connexion données itinérance</string>
     <string name="openapsama_autosens_max">Maximum Ratio Autosens</string>
     <string name="openapsama_autosens_min">Minimum Ratio Autosens</string>
-    <string name="openapsama_bolussnooze_dia_divisor">Diviseur de Bolus snooze DIA</string>
+    <string name="openapsama_bolussnooze_dia_divisor">Snooze bolus Diviseur de DAI</string>
     <string name="openapsama_max_daily_safety_multiplier">Multiplicateur max quotidien de sécurité</string>
     <string name="openapsama_current_basal_safety_multiplier">Multiplicateur de sécurité basale courante</string>
     <string name="value_unavailable_short">ND</string>
