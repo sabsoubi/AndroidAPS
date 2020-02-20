@@ -884,7 +884,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="reset">réinitialiser</string>
     <string name="waitingfortimesynchronization">En attente de synchronisation de l\'heure (%1$d sec)</string>
     <string name="loopdisconnectedfor">Déconnecté (%1$d m)</string>
-    <string name="openapssmb_maxiob_title">Maximum Insuline Active IA pour OpenAPS [U]</string>
+    <string name="openapssmb_maxiob_title">IA totale maximale pour OpenAPS [U]</string>
     <string name="openapssmb_maxiob_summary">Cette valeur est appelée Max IA (Insuline Active) dans le contaxte OpenAPS\nOpenAPS n’ajoutera pas plus d’insuline si l\'IA (Insuline Active) actuelle est supérieure à cette valeur</string>
     <string name="pump_stopped">Pompe arrêtée</string>
     <string name="pump_started">Pompe démarrée</string>
