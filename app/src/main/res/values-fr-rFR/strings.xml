@@ -643,7 +643,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="insulin_peak_time">Temps du Pic [min]</string>
     <string name="free_peak_oref">Profil d\'insuline ajustable Oref</string>
     <string name="rapid_acting_oref">Insuline à Action Rapide Oref </string>
-    <string name="ultrarapid_oref">Insuline à Action Ultra Rapide Oref</string>
+    <string name="ultrarapid_oref">Insuline Ultra Rapide Oref</string>
     <string name="dia_too_short">Durée d’Action pour %1$f trop courte - utiliser %2$f à la place !</string>
     <string name="activate_profile">Activer le profil</string>
     <string name="date"> Date</string>
